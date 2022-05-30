@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucasmenezeswa
+- 👋 Hi, I’m Lucas Menezes
 - 👀 I’m interested in develop my skills.
 - 🌱 I’m currently learning Java Script and React.
 - 💞️ I’m looking to collaborate on new ideas in applications.
